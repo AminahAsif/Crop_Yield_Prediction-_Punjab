@@ -1,0 +1,10 @@
+gradio
+numpy
+pandas
+scikit-learn
+xgboost
+shap
+matplotlib
+joblib
+tensorflow
+Pillow
