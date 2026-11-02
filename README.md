@@ -3,7 +3,7 @@
 **A tree-ensemble and leaf-health prototype, and what random validation hides**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-to%20be%20added-lightgrey.svg)](#citation)
+[![DOI](https://img.shields.io/badge/DOI-blue.svg)](#https://arxiv.org/abs/2610.07059)
 [![Live demo](https://img.shields.io/badge/Live%20demo-Hugging%20Face-orange.svg)](https://huggingface.co/spaces/AminahAsif/Crop-yield-punjab)
 
 Machine-learning prototype for predicting wheat and maize yield in Punjab, Pakistan (Random Forest, XGBoost, SVR and a stacked ensemble, with a MobileNetV2 leaf-health classifier and SHAP explanations), **together with an honest audit of how well such models really forecast**.
@@ -167,8 +167,8 @@ Small samples (46 and 70 national observations, 464 district-season observations
 - **Amina Asif**, Department of Artificial Intelligence, The Islamia University of Bahawalpur, Bahawalpur, Pakistan
 - **Qurat ul Ain Asif**, Key Laboratory of Xinjiang Endemic Phytomedicine Resources, Ministry of Education; School of Pharmacy, Shihezi University, Shihezi 832002, China
 - **Noor Bakhat Asif**, Department of Physics, Government College Women University Faisalabad, Faisalabad, Pakistan
-
-**Original course project (`Version_1`).** Done in the Data Mining course, Department of Artificial Intelligence, The Islamia University of Bahawalpur (session 2023 to 2027), by Amina Asif and Kasa e Fatima under the supervision of Miss Maryam Aslam.
+- **Kasa-e-Fatima**, Department of Artificial Intelligence, The Islamia University of Bahawalpur, Bahawalpur, Pakistan
+**Original course project (`Version_1`).** Done in the Data Mining course, Department of Artificial Intelligence, The Islamia University of Bahawalpur (session 2023 to 2027), by Amina Asif and Kasa-e-Fatima under the supervision of Miss Maryam Aslam.
 
 ---
 
@@ -176,25 +176,20 @@ Small samples (46 and 70 national observations, 464 district-season observations
 
 If you use this work, please cite the preprint:
 
-> Asif, A., Asif, Q. U. A., Asif, N. B. (2026). *Crop Yield Prediction for Punjab, Pakistan: A Tree-Ensemble and Leaf-Health Prototype, and What Random Validation Hides.* Preprint. **DOI: _to be added_**
+> Asif, A., Asif, Q. U. A., Asif, N. B. , Kasa-e-Fatima (2026). *Crop Yield Prediction for Punjab, Pakistan: A Tree-Ensemble and Leaf-Health Prototype, and What Random Validation Hides.* Preprint. **https://arxiv.org/abs/2610.07059**
 
 ```bibtex
 @misc{asif2026cropyield,
   title  = {Crop Yield Prediction for Punjab, Pakistan: A Tree-Ensemble and Leaf-Health Prototype, and What Random Validation Hides},
-  author = {Asif, Amina and Asif, Qurat ul Ain and Asif, Noor Bakhat},
+  author = {Asif, Amina and Asif, Qurat ul Ain and Asif, Noor Bakhat and Kasa-e-Fatima},
   year   = {2026},
   note   = {Preprint},
-  doi    = {to be added},
+  doi    = {https://arxiv.org/abs/2610.07059},
   url    = {https://github.com/AminahAsif/Crop_Yield_Prediction-_Punjab}
 }
 ```
 
-<!-- When the DOI is issued:
-     1. In the badge at the top, replace  DOI-to%20be%20added-lightgrey  with  DOI-<your DOI>-blue  and the link (#citation) with https://doi.org/<your DOI>.
-     2. In this section, replace "to be added" (twice) with the DOI.
-     An arXiv submission gets a DOI of the form 10.48550/arXiv.<number>; a GitHub release archived on Zenodo gets its own DOI. -->
 
----
 
 ## Licence
 
