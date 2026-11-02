@@ -3,7 +3,7 @@
 **A tree-ensemble and leaf-health prototype, and what random validation hides**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![DOI](https://img.shields.io/badge/DOI-blue.svg)](#https://arxiv.org/abs/2610.07059)
+[![DOI](https://img.shields.io/badge/DOI-blue.svg)](https://doi.org/10.48550/arXiv.2610.07059)
 [![Live demo](https://img.shields.io/badge/Live%20demo-Hugging%20Face-orange.svg)](https://huggingface.co/spaces/AminahAsif/Crop-yield-punjab)
 
 Machine-learning prototype for predicting wheat and maize yield in Punjab, Pakistan (Random Forest, XGBoost, SVR and a stacked ensemble, with a MobileNetV2 leaf-health classifier and SHAP explanations), **together with an honest audit of how well such models really forecast**.
